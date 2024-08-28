@@ -10,7 +10,7 @@ def main():
   #Ask for the user's name
   name = input("What is your name? ")
   #Use the user's name in the program.
-  print("Good to meet you!", name)
+  print("Good to meet you", name )
   #Ask the user for their age.
   Age =input("How old are you? ")
   #Tell the user what year they were born in.
